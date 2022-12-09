@@ -157,7 +157,7 @@ li a:hover {
     animation: blink-effect 1s step-end infinite;
 }
 
-.asia_tmi_div .asia_div {
+.asia_div {
     position: relative;
     top: 70px;
     left: 100px;
@@ -166,6 +166,10 @@ li a:hover {
     color: purple;
     letter-spacing: 10px;
 }
+.asia_div img {
+  text-align: center;
+}
+
 
 .asia_tmi_div .asia_tmi {
   padding: 100px;
@@ -173,6 +177,7 @@ li a:hover {
   line-height: 200%;
   text-indent: 30px;
 }
+
 
 .btn_group{
   text-align: center;
@@ -205,3 +210,9 @@ li a:hover {
   color:#FFFFFF;
   background-color: #1D4CAA;
 }
+
+.zaguk {
+  text-align: center;
+  top: 1000px;
+}
+
