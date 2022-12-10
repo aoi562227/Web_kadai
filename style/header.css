@@ -117,12 +117,12 @@ li a:hover {
 
 .section .slidelist .left {
     left: 30px;
-    background: url('/img/left.png') center center / 100% no-repeat;
+    background: url('../img/left.png') center center / 100% no-repeat;
 }
 
 .section .slidelist .right {
     right: 30px;
-    background: url('/img/right.png') center center / 100% no-repeat;
+    background: url('../img/right.png') center center / 100% no-repeat;
 }
 
 .section .slide-control [class='control'] {
