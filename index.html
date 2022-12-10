@@ -11,7 +11,12 @@
 <body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" style="background-color: #f6f6f6">
     <div class="menu">
         <a href="../Web_kadai/index.html"><img src="../Web_kadai/img/logo.jpeg" title="Go to home" height="80px" /></a>
-        <img src="img/Flag_of_South_Korea.png" height="80px" title="Flag of South Korea 太極旗" />
+        <img onclick="javascript:btn()" src="img/Flag_of_South_Korea.png" height="80px" title="Flag of South Korea 太極旗" />
+        <script>
+            function btn(){
+                alert('버튼이 클릭되었습니다');
+            }
+            </script>
         <div style="
           text-align: center;
           background-color: #333333;
