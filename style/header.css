@@ -67,8 +67,7 @@ li a:hover {
     position: relative;
 }
 
-.menu img {
-    cursor: pointer;
+.menu .img {
     float: right;
 }
 
